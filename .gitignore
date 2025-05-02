@@ -54,3 +54,5 @@ dkms.conf
 lv_port_linux/build-arm64/
 lv_port_linux/bin/
 lv_port_linux/protocols
+
+board_libs/
